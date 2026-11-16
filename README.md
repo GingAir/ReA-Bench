@@ -18,9 +18,12 @@ a request-based review rather than a fully public release. To apply, please emai
 [yezipeng.yzp@alibaba-inc.com](mailto:yezipeng.yzp@alibaba-inc.com?subject=ReA-Bench%20Dataset%20Access)
 with the following information:
 
-- Your GitHub username
-- Your affiliation, if applicable
+- Your GitHub username (for the repository invitation)
+- Your name and affiliation (an institutional email is preferred)
 - A brief description of your intended use
+
+Approved applicants will be asked to confirm the data use terms (e.g.,
+research-only use and no redistribution) before receiving the invitation.
 
 We are accepting requests. We will contact approved applicants when dataset
 distribution begins.
