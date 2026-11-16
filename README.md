@@ -7,7 +7,7 @@ in execution trajectories.
   <img src="assets/fig02.png" alt="ReA-Bench overview: data construction, audit taxonomy, and evaluation contrasts" width="900"/>
 </p>
 
-[Paper](https://arxiv.org/abs/2611.16493) · [Dataset](https://huggingface.co/datasets/Alibaba-AAIG/ReA-Bench) · [Request Dataset Access](#request-dataset-access)
+[Paper](https://arxiv.org/abs/2611.16493) · [Request Dataset Access](#request-dataset-access)
 
 ## Request Dataset Access
 
@@ -16,9 +16,7 @@ adapted from in-house production and red-team data. Although we have applied
 extensive de-identification to ensure data safety, we share the dataset through
 a request-based review rather than a fully public release.
 
-The dataset is hosted on Hugging Face at
-[Alibaba-AAIG/ReA-Bench](https://huggingface.co/datasets/Alibaba-AAIG/ReA-Bench).
-To apply, please request access on the dataset page with the following
+Please request access on the [dataset page](https://huggingface.co/datasets/Alibaba-AAIG/ReA-Bench) with the following
 information:
 
 - Your name and affiliation (an institutional email is preferred)
