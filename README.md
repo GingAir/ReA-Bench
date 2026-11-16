@@ -22,10 +22,10 @@ with the following information:
 We are accepting requests. We will contact approved applicants when dataset
 distribution begins.
 
-## Hi there 👋 这里是Alibaba AAIG  🌊
+## Hi there 👋 We are Alibaba AAIG 🌊
 
-Al是文明的陆地，承载生产力与创造力；AI安全是环绕的海洋，既塑造边界，也孕育信任与风险。我们致力于打造具备自净化、自适应、自修复能力的安全生态，为智能技术的可持续发展护航。
- > 🌊 在我们的安全生态中，每个技术模块以海洋生物命名，它们背后，有着不同的故事⋯⋯
+AI is the land of civilization, carrying productivity and creativity; AI safety is the surrounding ocean, shaping boundaries while nurturing both trust and risk. We are committed to building a safety ecosystem with self-purifying, self-adaptive, and self-healing capabilities, safeguarding the sustainable development of intelligent technology.
+ > 🌊 In our safety ecosystem, every technical module is named after a marine creature, each with its own story...
 
 <p align="center">
   <img src="assets/AAIG.jpg" alt="AAIG" width="800"/>
