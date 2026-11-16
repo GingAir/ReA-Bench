@@ -22,11 +22,6 @@ with the following information:
 We are accepting requests. We will contact approved applicants when dataset
 distribution begins.
 
-## Hi there 👋 We are Alibaba AAIG 🌊
+## Hi there 👋 We are Alibaba AAIG
 
-AI is the land of civilization, carrying productivity and creativity; AI safety is the surrounding ocean, shaping boundaries while nurturing both trust and risk. We are committed to building a safety ecosystem with self-purifying, self-adaptive, and self-healing capabilities, safeguarding the sustainable development of intelligent technology.
- > 🌊 In our safety ecosystem, every technical module is named after a marine creature, each with its own story...
-
-<p align="center">
-  <img src="assets/AAIG.jpg" alt="AAIG" width="800"/>
-</p>
+ReA-Bench is developed by [Alibaba AAIG](https://github.com/Alibaba-AAIG), the AI Governance lab at Alibaba Group. We work on responsible AI, including safety alignment, agent auditing, and safety evaluation. Check out our open-source projects, such as the Oyster series of safety-aligned models, on our [GitHub organization page](https://github.com/Alibaba-AAIG).
