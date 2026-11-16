@@ -22,7 +22,7 @@ To apply, please email
 [yezipeng.yzp@alibaba-inc.com](mailto:yezipeng.yzp@alibaba-inc.com?subject=ReA-Bench%20Dataset%20Access)
 with the following information:
 
-- Your Hugging Face username (for access approval)
+- Your Hugging Face or GitHub username (for access approval)
 - Your name and affiliation (an institutional email is preferred)
 - A brief description of your intended use
 
