@@ -11,7 +11,10 @@ in execution trajectories.
 
 ## Request Dataset Access
 
-The ReA-Bench dataset is available upon request. To apply, please email
+The ReA-Bench dataset is available upon request. Many of its trajectories are
+adapted from in-house production and red-team data, so a fully public release
+could expose sensitive internal information. The request-based process allows
+us to review each intended use before sharing the data. To apply, please email
 [yezipeng.yzp@alibaba-inc.com](mailto:yezipeng.yzp@alibaba-inc.com?subject=ReA-Bench%20Dataset%20Access)
 with the following information:
 
