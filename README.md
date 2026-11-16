@@ -24,4 +24,4 @@ distribution begins.
 
 ## Hi there 👋 We are Alibaba AAIG
 
-ReA-Bench is developed by [Alibaba AAIG](https://github.com/Alibaba-AAIG), the AI Governance lab at Alibaba Group. We work on responsible AI, including safety alignment, agent auditing, and safety evaluation. Check out our open-source projects, such as the Oyster series of safety-aligned models, on our [GitHub organization page](https://github.com/Alibaba-AAIG).
+ReA-Bench is developed by [Alibaba AAIG](https://github.com/Alibaba-AAIG), Alibaba's Artificial Intelligence Governance and Sustainable Development Laboratory. We focus on AI safety and governance: using AI to address real-world risks, while making AI itself more safe, reliable, and trustworthy.
