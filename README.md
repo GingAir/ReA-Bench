@@ -16,15 +16,18 @@ adapted from in-house production and red-team data. Although we have applied
 extensive de-identification to ensure data safety, we share the dataset through
 a request-based review rather than a fully public release.
 
-Please request access on the [dataset page](https://huggingface.co/datasets/Alibaba-AAIG/ReA-Bench) with the following
-information:
+The dataset is hosted on Hugging Face at
+[Alibaba-AAIG/ReA-Bench](https://huggingface.co/datasets/Alibaba-AAIG/ReA-Bench).
+To apply, please email
+[yezipeng.yzp@alibaba-inc.com](mailto:yezipeng.yzp@alibaba-inc.com?subject=ReA-Bench%20Dataset%20Access)
+with the following information:
 
+- Your Hugging Face username (for access approval)
 - Your name and affiliation (an institutional email is preferred)
 - A brief description of your intended use
 
 Approved applicants will be asked to confirm the data use terms (e.g.,
-research-only use and no redistribution) before access is granted. For
-questions, contact [yezipeng.yzp@alibaba-inc.com](mailto:yezipeng.yzp@alibaba-inc.com?subject=ReA-Bench%20Dataset%20Access).
+research-only use and no redistribution) before access is granted.
 
 We are accepting requests. We will contact approved applicants when dataset
 distribution begins.
